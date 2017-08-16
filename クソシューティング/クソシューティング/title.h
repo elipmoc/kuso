@@ -1,0 +1,3 @@
+
+void TitleScene();
+void TitleSceneInit();
